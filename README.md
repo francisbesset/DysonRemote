@@ -1,6 +1,11 @@
 Arduino DysonRemote
 ====================
 
+In winter it's cold at home and it's not nice to take a shower in those conditions.
+I can turn on my [Dyson AM05 Hot + Cool](http://shop.dyson.fr/ventilateurs-et-chauffages/chauffages/am05-hot-cool-gris-bleu-300378-01) fifteen minutes before my shower but I prefer save my fifteen minutes to sleep.
+
+This project turn on the Dyson on a specific time. I am happy to sleep more every days.
+
 Dependencies
 ------------
 
