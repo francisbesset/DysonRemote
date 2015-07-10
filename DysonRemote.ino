@@ -16,7 +16,7 @@
 //#define START_HOUR 20 // 8 PM
 
 // Set the minute to start the Dyson
-#define START_MINUTE 43
+#define START_MINUTE 0
 
 // Set the time to wait for each loop to check if the Dyson has started
 #define TIME_FOR_LOOP 10 * 1000 // 10 secondes
